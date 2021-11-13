@@ -2,6 +2,10 @@
     <h2 align="center">Todo App Using Services in Angular</h2>
 </p>
 
+<div align="center">
+    <img src="./demo.png" alt="calculator" width="80%">
+</div>
+
 <br>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
