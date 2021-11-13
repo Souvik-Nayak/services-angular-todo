@@ -1,0 +1,24 @@
+#work {
+	border-collapse: collapse;
+	width: 70%;
+	text-align: center;
+}
+
+#work td,
+#work th {
+	border: 1px solid #ddd;
+	padding: 4.5px;
+}
+
+#work tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+#work tr:hover {
+	background-color: #ddd;
+}
+
+#work th {
+	background-color: #04aa6d;
+	color: white;
+}
